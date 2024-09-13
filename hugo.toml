@@ -1,0 +1,4 @@
+baseURL = 'https://hypertealism.com/'
+languageCode = 'en-us'
+title = 'Hypertealism'
+theme = 'themes/hyde'
