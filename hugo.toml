@@ -2,3 +2,10 @@ baseURL = 'https://hypertealism.com/'
 languageCode = 'en-us'
 title = 'Hypertealism'
 theme = 'hyde'
+
+[params]
+description = "Dumping ground for thoughts..."
+themeColor = "theme-base-10"
+
+[Menus]
+main = [{ Name = "LinkedIn", URL = "https://www.linkedin.com/in/tnagpal/" }]
